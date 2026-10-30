@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #0b0b12;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+}
+
+#pagina_01 {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #151522;
+    padding: 25px;
+}
+
+#pagina_01 h2 {
+    color: #e6007e;
+    text-align: center;
+    font-size: 22px;
+}
+
+#pagina_01 nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#pagina_01 nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+#pagina_01 nav ul li a {
+    color: #00f0ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #0d0d17;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #2a2a3d;
+    text-align: left;
+}
+
+th {
+    background-color: #1a082b;
+    color: #00f0ff;
+}
+
+td img {
+    width: 100px;
+}
